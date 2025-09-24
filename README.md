@@ -1,7 +1,7 @@
 # 🐝 CODEHIVE
 
 <div align="center">
-  <img src="https://your-logo-url-here.com/codehive-logo.png" alt="CodeHive Logo" width="200"/>
+  <img src="https://codehive.vip/assets/assets/images/codehivelogodark.50f4158bc2f09b5a7dc3e5c0b9c52988.png" alt="CodeHive Logo" width="300"/>
   
   **Transforming ideas into stunning, functional digital experiences**
   
